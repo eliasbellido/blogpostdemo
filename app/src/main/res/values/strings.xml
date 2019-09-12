@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlogPostsApp</string>
+    <string name="retry">Reintentar</string>
+    <string name="post_error">Sucedió un error mientras se cargaban los posts</string>
+</resources>
